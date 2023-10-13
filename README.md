@@ -1,4 +1,4 @@
-# java_CRUD_Stud4ent_management_system
+# java_CRUD_Student_management_system
 This repository contains a Student Management System implemented in Java, allowing users to perform CRUD (Create, Read, Update, Delete) operations on student records.
 
 *Overview
